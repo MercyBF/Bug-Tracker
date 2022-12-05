@@ -1,4 +1,4 @@
-//
+///
 document.getElementById('issueInputForm').addEventListener('submit', saveIssue);
 
 function saveIssue(e) {
