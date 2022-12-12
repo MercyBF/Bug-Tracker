@@ -1,4 +1,4 @@
-//n
+///n
 (function($) {
 
 	"use strict";
